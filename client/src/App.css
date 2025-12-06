@@ -1,0 +1,72 @@
+.hero {
+  background: linear-gradient(135deg, #0d6efd 0%, #6610f2 100%);
+  color: #fff;
+  padding: 24px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+  box-shadow: 0 10px 30px rgba(13, 110, 253, 0.25);
+}
+
+.card-title {
+  font-weight: 700;
+}
+
+.object-fit-cover {
+  object-fit: cover;
+}
+
+.fade-in {
+  animation: fadeUp 300ms ease both;
+}
+
+@keyframes fadeUp {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.post-card {
+  transition: transform 120ms ease, box-shadow 120ms ease;
+  border: none;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+}
+
+.post-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.12);
+}
+
+.muted {
+  color: #6c757d;
+}
+
+.chip {
+  background: rgba(13, 110, 253, 0.1);
+  color: #0d6efd;
+  border-radius: 999px;
+  padding: 4px 10px;
+  font-size: 0.75rem;
+  margin-right: 6px;
+}
+
+.btn-soft {
+  background: rgba(13, 110, 253, 0.12);
+  color: #0d6efd;
+  border: none;
+}
+
+.btn-soft:hover {
+  background: rgba(13, 110, 253, 0.2);
+}
+
+.detail-banner {
+  background: linear-gradient(120deg, rgba(13, 110, 253, 0.12), rgba(102, 16, 242, 0.12));
+  border-radius: 12px;
+  padding: 18px;
+  margin-bottom: 16px;
+}
