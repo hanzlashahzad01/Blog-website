@@ -31,3 +31,12 @@
 ## Contact Page
 
 <img width="1919" height="1030" alt="contact" src="https://github.com/user-attachments/assets/89951d51-2e28-49d3-8575-7631af8d3441" />
+
+## 📬 Connect with Me
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+Email: hanzlashahzadhanzlashahzad@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/hanzla-shahzad
+
+GitHub: https://github.com/hanzlashahzad01/hanzlashahzad01
